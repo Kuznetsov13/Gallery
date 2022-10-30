@@ -1,0 +1,28 @@
+p {
+    color:rgb(60, 1, 255);
+    font-size: 25px;
+    font-family: Impact;
+}
+
+div {
+    width: 60%;
+    margin:auto ;
+    padding: 50px;
+    background-color: greenyellow;
+}
+
+a {
+    text-decoration: none;
+    color: tomato;
+    display: block;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+body{
+    background-color: coral;
+}
